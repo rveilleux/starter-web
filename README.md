@@ -3,6 +3,7 @@
 This repository is for showing how Git and GitHub work
 This line is added in Github and not pulled yet. Adding a line for rebase example, then
 more changes from myfeature.
+We are doing a fix after our stash
 
 ## Introduction
 
