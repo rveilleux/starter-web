@@ -16,3 +16,6 @@ Sample website with plenty of files for demos
 
 Testing modify from github.
 I am adding this and staging it. Doing exercice 45.
+
+### Copyright
+Git training
