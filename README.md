@@ -20,4 +20,4 @@ I am adding this and staging it. Doing exercice 45.
 Please fork this repo blabla.
 
 ### Copyright
-Git training
+Git training. All rights reserved.
